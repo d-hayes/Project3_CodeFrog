@@ -1,0 +1,13 @@
+http://www.idigbio.org/portal (2018),
+Query: {"filtered": {"filter": {"and": [{"terms": {"execution": "or", "scientificname": ["ptychadena subpunctata", ""]}}]}}},
+157 records, accessed on 2018-11-23T22:49:02.866126,
+contributed by 9 Recordsets, Recordset identifiers:
+http://www.idigbio.org/portal/recordsets/a8ac06c9-efb5-4337-9bdb-bee3b490772c (51 records)
+http://www.idigbio.org/portal/recordsets/51b958bb-9d5f-48d7-9a97-e372c0c747c3 (30 records)
+http://www.idigbio.org/portal/recordsets/b4bcc255-4acf-4966-b9b3-af9dd4e458d1 (29 records)
+http://www.idigbio.org/portal/recordsets/a6eee223-cf3b-4079-8bb2-b77dad8cae9d (27 records)
+http://www.idigbio.org/portal/recordsets/7ce9b7d0-a8da-4528-bbe3-2c4f407f9cea (8 records)
+http://www.idigbio.org/portal/recordsets/c4bb08d4-c310-4879-abee-1b3986e8e0ca (5 records)
+http://www.idigbio.org/portal/recordsets/271a9ce9-c6d3-4b63-a722-cb0adc48863f (5 records)
+http://www.idigbio.org/portal/recordsets/bd7cfd55-bf55-46fc-878d-e6e11f574ccd (1 records)
+http://www.idigbio.org/portal/recordsets/2d853a6d-50ec-4931-8e91-48fc2491fdee (1 records)
