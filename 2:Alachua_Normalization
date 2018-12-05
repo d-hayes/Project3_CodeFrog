@@ -1,0 +1,25 @@
+Description:
+The dataset came from the iDigBio portal search. 
+
+Tables:
+QUICK DESCRIPTION
+
+Table 1: Taxonomy
+Column names: 
+Family
+Class
+Order
+Genus 
+Primary Key: Genus 
+
+Table 2: Specimens
+Coulmn names: 
+CoreID
+Insitution Code
+Collection Code
+Catalogue Number
+Genus
+Scientific Name
+
+Foregin Key: Eruption number 
+Primary Key: CoreID
