@@ -8,14 +8,13 @@ Table 1 describes taxonomy (genus, family, class, order) of Alachua County, Flor
 
 
 Column names, description
-Genus,
-Family,
-Class,
-Order,
+Genus, genus of the species
+Family, Family name of the species
+Class, Class name of the species
+Order, Order name of the species 
 CoreID,
-Insitution Code,
-Collection Code,
-Catalogue Number,
-Genus,
-Scientific Name,
-Collection Date,
+Insitution Code, Institution where the specimen in housed
+Collection Code, Collection code attributed by the institution to which bilong the specimen
+Catalogue Number,Catalogue number in the record of the institution to which belong the specimen
+Scientific Name, Scientific name associatd with the specimen
+Collection Date, Date when the specimen was collected
