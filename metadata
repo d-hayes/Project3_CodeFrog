@@ -12,7 +12,7 @@ Genus, genus of the species
 Family, Family name of the species
 Class, Class name of the species
 Order, Order name of the species 
-CoreID,
+CoreID, nique specimen id for iDigBio 
 Insitution Code, Institution where the specimen in housed
 Collection Code, Collection code attributed by the institution to which bilong the specimen
 Catalogue Number,Catalogue number in the record of the institution to which belong the specimen
