@@ -1,0 +1,30 @@
+#The csv file is open into the object data
+import csv
+data=open("/Alachua_Florida.csv")
+
+
+reader = csv.DictReader(data)
+for Line in reader:
+
+    ins=Taxonomy.insert().values(Family=Line['Family'],
+                                Class = Line['AIRLINE_ID'],
+                                Order = Line['ORIGIN'],
+                                Family = Line['DEST'],
+                                )
+flights.close()
+
+# Open data again
+
+data=open("Alachua_Florida.csv")
+
+reader = csv.DictReader(flights)
+for Line in reader:                                          
+ins=Specimens.insert().values(CoreID=Line['CoreID'],
+                                Institution Code = Line['Institution Code'],
+                                Collecition Code = Line['Collecition Code'],
+                                Catalogue Number = Line['Catalogue Number'],
+                                Genus = Line['Genus'],
+                                Scientific Name = Line['Scientific Name'],
+                                Collection Date = Line['Collection Date'],  
+                             )
+    result = conn.execute(ins)
