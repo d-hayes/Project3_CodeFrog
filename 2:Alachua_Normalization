@@ -1,25 +1,26 @@
 Description:
-The dataset came from the iDigBio portal search. 
+The dataset came from the iDigBio portal search. Our search parameters were specificed as follows: Alachua County, Florida, No fossils, Phylum Chordata.
 
 Tables:
 QUICK DESCRIPTION
 
 Table 1: Taxonomy
 Column names: 
-Family
-Class
-Order
-Genus 
-Primary Key: Genus 
+Family (STRING)
+Class (STRING)
+Order (STRING)
+Genus (STRING)
+Primary Key: Genus (STRING) 
 
 Table 2: Specimens
 Coulmn names: 
-CoreID
-Insitution Code
-Collection Code
-Catalogue Number
-Genus
-Scientific Name
+CoreID (STRING)
+Insitution Code (STRING)
+Collection Code (STRING)
+Catalogue Number (STRING)
+Genus (STRING)
+Scientific Name (STRING)
+Collection Date (STRING)
 
 Foregin Key: Eruption number 
 Primary Key: CoreID
